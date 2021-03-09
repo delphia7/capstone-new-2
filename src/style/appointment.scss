@@ -1,0 +1,94 @@
+body {
+      font-family: Helvetica, Arial, sans-serif;
+}
+h1, h2, h3 {
+      margin: 0.5rem 0;
+}
+h1 {
+      font-size: 1.5rem;
+}
+h2 {
+      font-size: 1.2rem;
+}
+h3 {
+      font-size: 1rem;
+}
+a {
+      text-decoration: none;
+}
+.row {
+      display: flex;
+      justify-content: space-between;
+} 
+.col-1 {
+      flex:1;
+}
+.col-2 {
+      flex:2;
+}
+.block {
+      background-color: #ececec;
+      padding: 1rem;
+      margin: 0.5rem;
+      border-radius: 0.5rem;
+}
+.row.center {
+      align-items: center;
+}
+img.small { 
+      max-height: 8rem;
+}
+.design2 {
+
+      .design2-img {
+            display: block;
+            width: 100%;
+            min-height: 12rem;
+            transition:  all 0.3s linear;
+      }
+      .design7-img {
+            display: block;
+            width: 100%;
+            min-height: 12rem;
+            transition:  all 0.3s linear;
+      }
+      .design10-img {
+            display: block;
+            width: 100%;
+            min-height: 7rem;
+            transition:  all 0.3s linear;
+      }
+      .button.add {
+            background-color: #3F37C9;
+            width: 1.5rem;
+      }
+      button.remove {
+            background-color: #d90429;
+            width: 1.5rem;
+      }
+      button.badge {
+            background-color: #d90429;
+            border: none;
+            color: #ffffff;
+            width:1.5rem;
+      }
+      // .text-right {
+      //       text-align
+      // }
+      // .bag-btn1 {
+      //       position: absolute;
+      //       top: 70%;
+      //       right: 0;
+      //       background:  #f09d51;
+      //       border: none;
+      //       text-transform: uppercase;
+      //       padding: 0.5rem 0.75rem;
+      //       letter-spacing: 0.1rem;
+      //       font-weight: bold;
+      //       transition: all 0.3s linear;
+      //       transform: translateX(101%);
+      //       cursor: pointer;
+      //       //border-radius: 0.5rem;
+      // }
+}
+

@@ -1,0 +1,168 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <title>Delphia Project</title>
+</head>
+
+<body>
+      <script type="text/javascript">
+       let items = 
+`[
+            {
+        "sys": { "id": "1"},
+        "fields": {
+              "title": "Men Cornrows",
+              "price":  40,
+              "image": { "fields": { "file": {
+              "url": "./images/design1.jpg"} } }                                          
+            }
+      },
+      {
+          "sys": {"id": "2"},
+          "fields": {
+                "title": "Box Braid",
+                "price":  60,
+                "image": { "fields": {"file": {
+                "url": "./images/design2.jpg"} } }                                                                                 
+            }
+      }, 
+      {
+          "sys": {"id": "3"},
+          "fields": {
+                "title": "knotness",
+                "price":  180,
+                "image": { "fields": {"file": {
+                "url": "./images/design7.jpg"} } }                                                                
+            }
+      }, 
+      {
+          "sys": {"id": "4"},
+          "fields": {
+                "title": "Women Cornrows",
+                "price":  80,
+                "image": { "fields": {"file": {
+                "url": "./images/design3.jpg"} } }                                                                                  
+            }
+      },
+      {
+          "sys": {"id": "5"},
+          "fields": {
+                "title": "Two Braids No Ext",
+                "price":  25,
+                "image": { "fields": {"file": {
+                "url": "./images/design44.jpg"} } }                                                                   
+            }
+      }, 
+      {
+          "sys": {"id": "6"},
+          "fields": {
+                "title": "Dread Locks",
+                "price":  70,
+                "image": { "fields": {"file": {
+                "url": "./images/design33.jpg"} } }                                                            
+            }
+      },
+      {
+          "sys": {"id": "7"},
+          "fields": {
+                "title": "Kiki Twist",
+                "price":  120,
+                "image": { "fields": {"file": {
+                "url": "./images/design4.jpg"} } }                                                                
+            }
+      }, 
+      {
+          "sys": {"id": "8"},
+          "fields": {
+                "title": "Lemonade Cornrows",
+                "price":  80,
+                "image": { "fields": {"file": {
+                "url": "./images/design41.jpg"} } }                                                                                 
+            }
+      }, 
+      {
+          "sys": {"id": "9"},
+          "fields": {
+                "title": "Big Knotness",
+                "price":  120,
+                "image": { "fields": {"file": {
+                "url": "./images/design11.jpg"} } }                                                                                  
+            }
+      }, 
+      {
+          "sys": {"id": "10"},
+          "fields": {
+                "title": "Men Design",
+                "price":  70,
+                "image": { "fields": {"file": {
+                "url": "./images/design9.jpg"} } }                                                                                    
+            }
+      },
+      {
+          "sys": {"id": "11"},
+          "fields": {
+                "title": "Ponitel",
+                "price":  90,
+                "image": { "fields": {"file": {
+                "url": "./images/design10.jpg"} } }                                                                                  
+            }
+      }, 
+      {
+          "sys": {"id": "12"},
+          "fields": {
+                "title": "Senegalese Twist",
+                "price":  100,
+                "image": { "fields": {"file": {
+                "url": "./images/design21.jpg"} } }                                                                                 
+            }
+      },
+      {
+          "sys": {"id": "13"},
+          "fields": {
+                "title": "Long Senegalaise Twist",
+                "price":  180,
+                "image": { "fields": {"file": {
+                "url": "./images/design121.jpg"} } }                                                                                  
+            }
+      }, 
+      {
+          "sys": {"id": "14"},
+          "fields": {
+                "title": "Two Braids",
+                "price":  25,
+                "image": { "fields": {"file": {
+                "url": "./images/design122.jpg"} } }                                                                                 
+            }
+      },
+      {
+          "sys": {"id": "15"},
+          "fields": {
+                "title": "Fake Dread Locs",
+                "price":  250,
+                "image": { "fields": {"file": {
+                "url": "./images/design12.jpg"} } }                                                                                
+            }
+      }, 
+      {
+          "sys": {"id": "16"},
+          "fields": {
+                "title": "Box Braid",
+                "price":  60,
+                "image": { "fields": {"file": {
+                "url": "./images/design5.jpg"} } }                                          
+                
+            }
+      }
+]`
+localStorage.setItem("items", items);
+console.log(JSON.parse(items))
+
+      </script>
+  <div class="app-wrapper"></div>
+</body>
+
+</html>

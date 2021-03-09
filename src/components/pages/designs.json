@@ -1,0 +1,149 @@
+{
+      "items":   [
+            {
+                  "sys": { "id": "1"},
+                  "fields": {
+                        "name": "Men Cornrows",
+                        "price":  40,
+                        "image": { "fields": { "file": {
+                        "url": "./images/design1.jpg"} } }                                          
+                        }
+             },
+            {
+                        "sys": {"id": "2"},
+                        "fields": {
+                              "name": "Box Braid",
+                              "price":  60,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design2.jpg"} } }                                                                                 
+                        }
+            }, 
+            {
+                        "sys": {"id": "3"},
+                        "fields": {
+                              "name": "knotness",
+                              "price":  180,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design7.jpg"} } }                                                                
+                        }
+            }, 
+            {
+                        "sys": {"id": "4"},
+                        "fields": {
+                              "name": "Women Cornrows",
+                              "price":  80,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design3.jpg"} } }                                                                                  
+                        }
+            },
+            {
+                        "sys": {"id": "5"},
+                        "fields": {
+                              "name": "Two Braids No Ext",
+                              "price":  25,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design44.jpg"} } }                                                                   
+                        }
+            }, 
+            {
+                        "sys": {"id": "6"},
+                        "fields": {
+                              "title": "Dread Locks",
+                              "price":  70,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design33.jpg"} } }                                                            
+                        }
+            },
+            {
+                        "sys": {"id": "7"},
+                        "fields": {
+                              "name": "Kiki Twist",
+                              "price":  120,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design4.jpg"} } }                                                                
+                        }
+            }, 
+            {
+                        "sys": {"id": "8"},
+                        "fields": {
+                              "name": "Lemonade Cornrows",
+                              "price":  80,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design41.jpg"} } }                                                                                 
+                        }
+            }, 
+            {
+                        "sys": {"id": "9"},
+                        "fields": {
+                              "name": "Big Knotness",
+                              "price":  120,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design11.jpg"} } }                                                                                  
+                        }
+            }, 
+            {
+                        "sys": {"id": "10"},
+                        "fields": {
+                              "name": "Men Design",
+                              "price":  70,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design9.jpg"} } }                                                                                    
+                        }
+            },
+            {
+                        "sys": {"id": "11"},
+                        "fields": {
+                              "name": "Ponitel",
+                              "price":  90,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design10.jpg"} } }                                                                                  
+                        }
+            }, 
+            {
+                        "sys": {"id": "12"},
+                        "fields": {
+                              "name": "Senegalese Twist",
+                              "price":  100,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design21.jpg"} } }                                                                                 
+                        }
+            },
+            {
+                        "sys": {"id": "13"},
+                        "fields": {
+                              "name": "Long Senegalaise Twist",
+                              "price":  180,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design121.jpg"} } }                                                                                  
+                        }
+            }, 
+            {
+                        "sys": {"id": "14"},
+                        "fields": {
+                              "name": "Two Braids",
+                              "price":  25,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design122.jpg"} } }                                                                                 
+                        }
+            },
+            {
+                        "sys": {"id": "15"},
+                        "fields": {
+                              "name": "Fake Dread Locs",
+                              "price":  250,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design12.jpg"} } }                                                                                
+                        }
+            }, 
+            {
+                        "sys": {"id": "16"},
+                        "fields": {
+                              "name": "Box Braid",
+                              "price":  60,
+                              "image": { "fields": {"file": {
+                              "url": "./images/design5.jpg"} } }                                          
+                              
+                        }
+                  }
+            ]
+}
